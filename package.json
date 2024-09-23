@@ -1,3 +1,10 @@
+'script':
+{
+   "dev": "next dev",
+             ==>  "build": "next build", 
+    "start": "next start",
+    "lint": "next lint"
+}
 {
     "dependencies": {
       "react": "^18.0.0",
